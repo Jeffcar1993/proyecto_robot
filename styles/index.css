@@ -1,0 +1,38 @@
+.subtitulo{
+    margin: 15px;
+    padding: 0;
+    color: black;
+    font-size: 36px;
+}
+
+.container{
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.imagen{
+    float: right;
+    margin: 0 0 20px 20px;
+    max-width: 25%;
+    height: 45%;
+}
+
+.imagen2{
+    float: left;
+    margin: 0 20px 20px 0px;
+    max-width: 25%;
+    height: 40%;
+}
+
+p{
+    font-size: 22px;
+    line-height: 250%;
+}
+
+
+
+h3{
+    color: black;
+    font-size: 36px;
+}
